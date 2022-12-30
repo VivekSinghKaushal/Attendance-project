@@ -41,7 +41,7 @@ class SplashScreen extends StatelessWidget {
     Container(
     alignment: Alignment.center,
       child: Marquee(
-        text: 'Hello Vivek Singh Kaushal',
+        text: 'Welcome Vivek Singh Kaushal',
         style: TextStyle(fontWeight: FontWeight.bold, fontSize:50,color: Colors.pinkAccent),
         scrollAxis: Axis.horizontal, //scroll direction
         //crossAxisAlignment: CrossAxisAlignment.start,
